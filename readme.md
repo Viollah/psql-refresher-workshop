@@ -120,6 +120,8 @@ DATABASE_URL=<your db url here - without any brackets...>
 
 Connect to your database using psql in the terminal run this command:
 
+
+
 ```
 psql <your db url here>
 ```
